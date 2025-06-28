@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <a href="https://palnotesapp.pythonanywhere.com/" target="_blank">
+    🔗 <strong>Live Demo</strong>
+  </a>
+</p>
+
+<p align="center">
   <strong>A sleek, responsive, and user-friendly Notes application built with Django</strong>  
 </p>
 
@@ -18,7 +24,6 @@
 - 🗒️ **Smart Note Management** – Add, edit, and delete personal notes  
 - 💼 **Book Services Online** – Schedule services directly through the app  
 - 🟢 **WhatsApp Live Chat** – Connect for help 🤝 or requests 📞 instantly  
-  👉 [Chat Now on WhatsApp](https://wa.me/916356497821) *(replace with your number)*
 
 ---
 
