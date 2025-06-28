@@ -18,7 +18,7 @@
 - 🗒️ **Smart Note Management** – Add, edit, and delete personal notes  
 - 💼 **Book Services Online** – Schedule services directly through the app  
 - 🟢 **WhatsApp Live Chat** – Connect for help 🤝 or requests 📞 instantly  
-  👉 [Chat Now on WhatsApp](https://wa.me/91XXXXXXXXXX) *(replace with your number)*
+  👉 [Chat Now on WhatsApp](https://wa.me/916356497821) *(replace with your number)*
 
 ---
 
